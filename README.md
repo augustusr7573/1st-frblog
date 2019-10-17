@@ -1,7 +1,7 @@
 # SEP11 Freedom Project
 by Augustus Roman
 ## Context
-Hi my name is augustus and the topic i will be working with for my freedom projectis on a in more depth math subject
+Hi my name is Augustus and the topic i will be working with for my freedom projectis on a in more depth math subject
 
 ## Content
 What it will be around is statistics and on how it could help anybody and everyone.
