@@ -15,7 +15,7 @@ Presentation
 I will just show some examples on how to work with it
 ## Implications
 Text
-When you get a bunch of informationand you need to organize i can show you mothods with it.
+When you get a bunch of information and you need to organize i can show you mothods with it.
 
 ---
 
